@@ -8,7 +8,7 @@ import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/giris_sayfa
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/kaydol_sayfa_cubit.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/login_cubit.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/sepet_sayfa_cubit.dart';
-import 'package:flutter_bootcamp_bitirme_projesi/presentation/pages/splash_screen.dart';
+import 'package:flutter_bootcamp_bitirme_projesi/presentation/screens/splash_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
